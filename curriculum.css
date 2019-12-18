@@ -25,6 +25,13 @@ h3 {
     font-style: italic;
 }
 
+span.especialidades {
+    font-weight: bold;
+    font-style: oblique ;
+    color: hsl(199, 84%, 37%);
+
+}
+
 p {
     background-color: hsl(200, 15%, 75%);
 }
@@ -33,11 +40,6 @@ em {
     color: hsl(200, 100%, 40%);
     font-style: normal;
     font-weight: bold;
-}
-
-p.class especialidades {
-font-weight: bold;
-font-style: oblique;
 }
 
 
